@@ -18,7 +18,7 @@ L'application devrait normalement s'être lancée
 
 
 # Sous Linux :
-Ouvrir un terminal et se placer dans ce répertoire (Groupe8-SAE125)
+Ouvrir un terminal et se placer à la racine du projet
 Entrer la commande "./demarrer.sh"
 
 L'application devrait normalement s'être lancée
