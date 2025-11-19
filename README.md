@@ -11,7 +11,7 @@
 # Exécution du code #
 
 # Sous Windows :
-Ouvrir une invite de commande CMD et se placer dans ce répertoire (Groupe8-SAE125)
+Ouvrir une invite de commande CMD et se placer à la racine du projet
 Entrez la commande "demarrer.bat"
 
 L'application devrait normalement s'être lancée
